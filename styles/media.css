@@ -1,0 +1,24 @@
+@media (max-width:991px) {
+    .nav-sign-in {
+        margin-left:20px;
+        margin-right: 20px;
+    }
+    
+    .nav-get-started{
+        margin-left:20px;
+        margin-right: 20px;
+    }
+    
+    .nav-text {
+        margin-left:20px;
+        margin-right: 20px;
+    }
+}
+
+@media (max-width:576px) {
+
+
+    .header-text {
+        margin-top:0px;
+    }
+}
